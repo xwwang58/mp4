@@ -1,6 +1,6 @@
 # mp4
 
-* Find a video on YouTube—like this one—and copy the URL from the address bar.
+* Find a video on YouTube and copy the URL from the address bar.
 * In VLC, head to Media > Open Network Stream.
 * Paste the YouTube link in the box and click Play.
 * Under Tools, click Codec Information.
